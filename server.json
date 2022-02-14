@@ -21,8 +21,24 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Massa Italiana Da Casa",
+      "price": "22,90",
+      "description": "Massa artesanal ao molho especial da casa e especiarias.",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Mamma mia",
+      "price": "29,90",
+      "description": "Macarrão ao molho branco feito com cogumelos e queijo gorgonzola",
+      "available": true,
+      "id": 5
     }
   ]
 }
